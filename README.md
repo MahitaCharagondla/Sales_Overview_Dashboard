@@ -15,7 +15,8 @@ Welcome to the **Sales Overview Dashboard** — an interactive Power BI solution
 - Year: 2013.
 - Month: April.
 - Days: 4 to 20 
-![image](https://github.com/user-attachments/assets/31638051-603b-4190-876b-bf6e55df5885)
+![image](https://github.com/user-attachments/assets/31638051-603b-4190-876b-bf6e55df5885)  ![image](https://github.com/user-attachments/assets/33f4ea74-d031-4ed4-944a-97c24fbaaf18)
+
 
 ---
 
