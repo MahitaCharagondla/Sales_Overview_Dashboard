@@ -59,6 +59,10 @@ This Power BI Sales Overview Dashboard offers several valuable advantages for th
   Designed to be flexible — easily adaptable to new data sources, KPIs, and evolving business needs.
 
 ---
+## Mobile View
+
+- we can even create a mobile view for the dashbord. Below is the sample screenshot.
+- ![image](https://github.com/user-attachments/assets/1d724e13-b69e-40ff-b3c9-1caa1c81d50e)
 
 ## 🔧 How to Use
 
